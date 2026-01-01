@@ -41,5 +41,3 @@ It is a beginner-friendly **computer vision project** that helps in understandin
 
 ---
 
-pip install opencv-python numpy
-python angle_measurement.py
